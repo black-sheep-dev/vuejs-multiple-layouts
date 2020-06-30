@@ -1,4 +1,4 @@
-# vue-multiple-layouts
+# Vue.js Multiple Layouts Biolerplate
 
 ## Project setup
 ```
