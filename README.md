@@ -1,5 +1,12 @@
 # Vue.js Multiple Layouts Biolerplate
 
+This is a boilerplate for a multiple layouts Vue.js app.
+
+Tutorial:
+
+https://tutorials.nubecula.org/2020/06/30/multiple-layouts-in-a-single-vue-js-app/
+
+
 ## Project setup
 ```
 npm install
